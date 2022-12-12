@@ -1,0 +1,8 @@
+{
+  "name": "miso",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "b9ef5850"
+}
